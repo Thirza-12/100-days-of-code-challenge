@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int power(int a,int b){
+    // Power of a number without using in-built function
     int ans=1;
     for(int i=1;i<=b;i++)
     {
