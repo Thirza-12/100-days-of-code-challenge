@@ -30,7 +30,8 @@ int main()
         cout<<"key is present";
     }
 
-    else{
+    else
+    {
     cout<<"key is not present";
     }
 }
